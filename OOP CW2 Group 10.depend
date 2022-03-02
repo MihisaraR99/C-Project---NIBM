@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588152524 source:e:\nibm dse19.1f\notes\semester 1 - 2\object oriented programming\c++ programming\code blocks\oop cw2 group 10\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
